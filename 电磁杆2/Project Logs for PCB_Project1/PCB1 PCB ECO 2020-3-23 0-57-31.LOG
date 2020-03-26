@@ -1,0 +1,53 @@
+Added Component: Designator=J3(2.54XH接插件3P)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=Vin1 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=Vin1 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=Vin3 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=Vin4 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=Vin5 Pin=C5-2
+Added Pin To Net: NetName=Vin1 Pin=J1-1
+Added Pin To Net: NetName=Vin4 Pin=J1-2
+Added Pin To Net: NetName=Vin2 Pin=J1-3
+Added Pin To Net: NetName=Vin5 Pin=J1-4
+Added Pin To Net: NetName=Vin3 Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=Vin1 Pin=J2-1
+Added Pin To Net: NetName=Vin2 Pin=J2-2
+Added Pin To Net: NetName=Vin3 Pin=J2-3
+Added Pin To Net: NetName=Vin1 Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=Vin5 Pin=J3-3
+Added Pin To Net: NetName=GND Pin=L1-1
+Added Pin To Net: NetName=Vin1 Pin=L1-2
+Added Pin To Net: NetName=Vin1 Pin=L1-2
+Added Pin To Net: NetName=Vin1 Pin=L1-2
+Added Pin To Net: NetName=GND Pin=L2-1
+Added Pin To Net: NetName=Vin1 Pin=L2-2
+Added Pin To Net: NetName=Vin1 Pin=L2-2
+Added Pin To Net: NetName=Vin1 Pin=L2-2
+Added Pin To Net: NetName=GND Pin=L4-1
+Added Pin To Net: NetName=Vin4 Pin=L4-2
+Added Pin To Net: NetName=Vin4 Pin=L4-2
+Added Pin To Net: NetName=Vin4 Pin=L4-2
+Added Pin To Net: NetName=GND Pin=L5-1
+Added Pin To Net: NetName=Vin5 Pin=L5-2
+Added Pin To Net: NetName=Vin5 Pin=L5-2
+Added Pin To Net: NetName=Vin5 Pin=L5-2
+Added Member To Class: ClassName=Sheet1 Member=Component C1 电容
+Added Member To Class: ClassName=Sheet1 Member=Component C2 电容
+Added Member To Class: ClassName=Sheet1 Member=Component C3 电容
+Added Member To Class: ClassName=Sheet1 Member=Component C4 电容
+Added Member To Class: ClassName=Sheet1 Member=Component C5 电容
+Added Member To Class: ClassName=Sheet1 Member=Component J1 PIN-6
+Added Member To Class: ClassName=Sheet1 Member=Component J2 SIP-6
+Added Member To Class: ClassName=Sheet1 Member=Component J3 SIP-3
+Added Member To Class: ClassName=Sheet1 Member=Component L1 直插电感
+Added Member To Class: ClassName=Sheet1 Member=Component L2 直插电感
+Added Member To Class: ClassName=Sheet1 Member=Component L4 直插电感
+Added Member To Class: ClassName=Sheet1 Member=Component L5 直插电感
+Added Room: Name=Sheet1

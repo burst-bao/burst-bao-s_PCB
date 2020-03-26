@@ -1,0 +1,9 @@
+Added Component: Designator=J1(2.54≈≈’Î2X3)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Vin1 Pin=J1-1
+Added Pin To Net: NetName=Vin4 Pin=J1-2
+Added Pin To Net: NetName=Vin2 Pin=J1-3
+Added Pin To Net: NetName=Vin5 Pin=J1-4
+Added Pin To Net: NetName=Vin3 Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Member To Class: ClassName=Sheet1 Member=Component J1 PIN-6

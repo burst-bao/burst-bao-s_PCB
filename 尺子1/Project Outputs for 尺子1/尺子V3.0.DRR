@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ³ß×ÓV3.0.PcbDoc   2020/1/31  23:18:25
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : ³ß×ÓV3.0-RoundHoles-Plated.TXT
+ASCII Plated SlotHoles File : ³ß×ÓV3.0-SlotHoles-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      39mil (1mm)                                               Round             4         PTH        0.00inch (0.00mm)
+T2      40mil (1.016mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T3      80mil (2.032mm)                                           Slot              1         PTH        0.00inch (0.00mm)
+T4      100mil (2.54mm)                                           Round             1         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              7
+
+Total Processing Time (hh:mm:ss) : 00:00:00

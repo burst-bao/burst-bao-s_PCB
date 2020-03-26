@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: E:\ADcreated\CSUEAF4_V2.0_ÎÞch340\CSUEAF4_v2.0.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=csueaf4_v2.0-roundholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=csueaf4_v2.0-slotholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=csueaf4_v2.0-roundholes-nonplated.txt|DrillLayers=gtl,gbl

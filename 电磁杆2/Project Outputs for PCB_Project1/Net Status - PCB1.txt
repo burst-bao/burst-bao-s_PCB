@@ -1,0 +1,14 @@
+Net Status Report
+Filename     : E:\ADcreated\µç´Å¸Ë2\PCB1.PcbDoc
+Date         : 2020/3/23
+Time         : 15:29:15
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    GND, Signal Layers Only, 193.6407mm
+    Vin1, Signal Layers Only, 143.0121mm
+    Vin2, Signal Layers Only, 98.2047mm
+    Vin3, Signal Layers Only, 36.4089mm
+    Vin4, Signal Layers Only, 63.5487mm
+    Vin5, Signal Layers Only, 125.8341mm
+count : 6

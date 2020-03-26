@@ -1,0 +1,6 @@
+Added Component: Designator=J3(XH2.54-3SMD)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Vin1 Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=Vin5 Pin=J3-3
+Added Member To Class: ClassName=Sheet1 Member=Component J3 SIP-3

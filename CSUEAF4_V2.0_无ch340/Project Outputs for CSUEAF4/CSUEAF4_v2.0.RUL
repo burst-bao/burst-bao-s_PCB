@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: E:\ADcreated\CSUEAF4_V2.0_ÎÞch340\CSUEAF4_v2.0.PcbDoc
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=VIA-POLY|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=POLY|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=ALL|Scope=Board|Minimum=6.00
+RuleKind=Width|RuleName=POW|Scope=Board|Minimum=15.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.50

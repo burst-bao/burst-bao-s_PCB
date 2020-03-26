@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [尺子1.PrjPCB]
+   Generated File[尺子V3.0-RoundHoles-Plated.TXT]
+   Generated File[尺子V3.0-SlotHoles-Plated.TXT]
+   Generated File[尺子V3.0.LDP]
+   Generated File[尺子V3.0.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 23:18:25 On 2020/1/31
