@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [OpenMVX.PrjPcb]
+   Generated File[OpenMVX-Plated.TXT]
+   Generated File[OpenMVX-NonPlated.TXT]
+   Generated File[OpenMVX.LDP]
+   Generated File[OpenMVX.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 14:03:17 On 2020/3/28
